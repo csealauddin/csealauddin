@@ -1,4 +1,5 @@
 # Hi 👋, I'm Md. Alauddin
 
-## ⚡About me #
+## About me
+---
 I'm Md. Alauddin from Bangladesh, currently living in Dhaka. I'm a graduate with a Hon's degree in Computer Science and Engineering at Bangladesh University. Currently working as a System Engineer at Ibn Sina Trust.
