@@ -21,7 +21,3 @@
 - Docker Learning Repository
 - Oracle Data Guard Lab
 - RHCE Practice Notes
-
-## Contact
-
-- Email: yourmail@example.com
